@@ -1,4 +1,4 @@
-# Ticket Closure
+# Ticket Closure Scripts
 
 Templates for wrapping up support requests professionally.
 
