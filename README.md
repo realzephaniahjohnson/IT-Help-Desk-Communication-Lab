@@ -1,4 +1,4 @@
-# 💬 IT Help Desk Communication Scripts
+# 💬 IT Help Desk Communication Lab
 
 This repository contains reusable communication templates for common IT help desk interactions.
 
