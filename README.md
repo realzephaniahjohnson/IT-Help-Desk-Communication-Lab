@@ -15,14 +15,14 @@ The scripts demonstrate how I would communicate with users through email, instan
 - Escalation Procedures
 - Professional Writing
 
-## Script Categories
+## 📂 Script Categories
 
-- [Greetings and User Intake](Greetings-and-Intake.md)
-- [Troubleshooting Updates](Troubleshooting-Updates.md)
-- [Account and Password Support](Account-and-Password-Support.md)
-- [Escalation Scripts](Escalation-Scripts.md)
-- [Ticket Closure Scripts](Ticket-Closure-Scripts.md)
-- [Ticket Documentation Templates](Ticket-Documentation-Templates.md)
+- 💬 [Greetings and User Intake](Greetings-and-Intake.md)
+- 🔍 [Troubleshooting Updates](Troubleshooting-Updates.md)
+- 🔐 [Account and Password Support](Account-and-Password-Support.md)
+- ⬆️ [Escalation Scripts](Escalation-Scripts.md)
+- ✅ [Ticket Closure Scripts](Ticket-Closure-Scripts.md)
+- 📝 [Ticket Documentation Templates](Ticket-Documentation-Templates.md)
 
 ## Purpose
 
