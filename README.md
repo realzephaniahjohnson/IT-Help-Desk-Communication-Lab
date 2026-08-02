@@ -1,4 +1,7 @@
 # 💬 IT Help Desk Communication Lab
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Role](https://img.shields.io/badge/Role-Help%20Desk-blue)
+![Type](https://img.shields.io/badge/Portfolio-Lab-orange)
 
 This repository demonstrates professional communication used in common IT help desk scenarios.
 
