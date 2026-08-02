@@ -1,8 +1,8 @@
 # 💬 IT Help Desk Communication Lab
 
-This repository contains reusable communication templates for common IT help desk interactions.
+This repository demonstrates professional communication used in common IT help desk scenarios.
 
-The scripts demonstrate how I would communicate with users through email, instant messaging, and ticketing systems during troubleshooting, escalation, follow-up, and ticket resolution.
+The examples include Microsoft Teams messages, email responses, troubleshooting updates, ticket documentation, escalation notes, and ticket closure templates.
 
 ## Skills Demonstrated
 
