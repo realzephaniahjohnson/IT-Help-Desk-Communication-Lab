@@ -34,4 +34,3 @@ These templates are examples and would be adjusted to follow an employer’s sec
 
 Created by **Zephaniah Johnson**
 
-This project is part of my IT support portfolio as I prepare for an entry-level Help Desk role.
